@@ -81,7 +81,7 @@ We use authentication, account-scoped access controls, encrypted network connect
 
 You can choose not to use online or AI features. You can cancel an AI disclosure without sending the selected content.
 
-You can delete local files individually. To request deletion of your account and associated server data, use any deletion option provided in DocuKit or contact [support@atkinsmedia.io](mailto:support@atkinsmedia.io). We may retain limited information where required for legal, fraud-prevention, security, or dispute-resolution purposes.
+You can delete local files individually. To delete your account and associated server data, open DocuKit Settings and choose **Delete Account**, or contact [support@atkinsmedia.io](mailto:support@atkinsmedia.io). We may retain limited information where required for legal, fraud-prevention, security, or dispute-resolution purposes.
 
 ## 9. Children
 
