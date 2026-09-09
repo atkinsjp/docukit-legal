@@ -16,6 +16,10 @@ This Privacy Policy explains how Atkins Media, LLC (“Atkins Media,” “we,�
 
 We process account information such as your email address, name when supplied through Sign in with Apple, authentication records, and an internal user identifier. Sign in with Apple may provide an Apple private-relay email address.
 
+### Subscription information
+
+When you use DocuKit Pro, Apple and RevenueCat process purchase and subscription information. We receive subscription status, product and entitlement identifiers, transaction status, trial or offer eligibility, renewal state, and a pseudonymous app-user identifier. We do not receive or store your full payment-card details.
+
 ### Content you choose to submit
 
 When you use an online feature, we may process the files and content you select, including PDFs, documents, images, videos, audio recordings, entered text, prompts, chat messages, extracted text, filenames, and generated results.
@@ -61,7 +65,7 @@ We do not use DocuKit data for third-party advertising or cross-app tracking.
 
 ## 5. How information is shared
 
-We share information only as needed with providers that support DocuKit, including authentication, hosting, infrastructure, file processing, and AI providers. We may also disclose information when required by law, to protect rights or safety, or as part of a business transaction subject to appropriate safeguards.
+We share information only as needed with providers that support DocuKit, including Apple and RevenueCat for subscriptions, authentication, hosting, infrastructure, file processing, and AI providers. We may also disclose information when required by law, to protect rights or safety, or as part of a business transaction subject to appropriate safeguards.
 
 We do not sell personal information.
 
