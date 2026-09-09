@@ -79,7 +79,7 @@ Our total liability relating to DocuKit will not exceed the amount you paid us f
 
 You may stop using DocuKit at any time. We may restrict or terminate access if you violate these Terms, create legal or security risk, or misuse the service. Provisions that by their nature should survive termination will remain in effect.
 
-To request account and server-data deletion, use any deletion option provided in the app or contact [support@atkinsmedia.io](mailto:support@atkinsmedia.io).
+To delete your account and associated server data, open DocuKit Settings and choose **Delete Account**, or contact [support@atkinsmedia.io](mailto:support@atkinsmedia.io).
 
 ## 12. Changes to these Terms
 
