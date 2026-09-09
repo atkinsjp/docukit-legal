@@ -24,7 +24,7 @@ You may use Sign in with Apple or supported email authentication. Your use of th
 
 ## 3. Your files and content
 
-You retain ownership of files, text, prompts, and other content you submit. You grant us and our service providers a limited right to process that content only as needed to operate, secure, maintain, and improve the features you request.
+You retain ownership of files, text, prompts, and other content you submit. You grant us and our service providers a limited right to process that content only as needed to operate, secure, and maintain the features you request.
 
 You represent that you have the rights and permissions required to upload, process, modify, sign, export, or share your content. You must not use DocuKit to infringe intellectual-property, privacy, publicity, confidentiality, or other legal rights.
 
