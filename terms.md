@@ -22,7 +22,13 @@ You must provide accurate account information and protect access to your account
 
 You may use Sign in with Apple or supported email authentication. Your use of those services is also subject to the provider’s terms.
 
-## 3. Your files and content
+## 3. DocuKit Pro subscriptions
+
+DocuKit Pro is offered through auto-renewing in-app subscriptions billed by Apple. Available prices, currencies, trial eligibility, and billing periods are shown in the app before purchase and may vary by storefront or region.
+
+Payment is charged to your Apple Account when you confirm a purchase. A subscription renews automatically unless you cancel at least 24 hours before the end of the current billing period. You can manage or cancel it from DocuKit Settings or your Apple Account subscription settings. Any free trial is available only to eligible users under Apple’s rules. Apple handles billing, refunds, and purchase records under its applicable terms.
+
+## 4. Your files and content
 
 You retain ownership of files, text, prompts, and other content you submit. You grant us and our service providers a limited right to process that content only as needed to operate, secure, and maintain the features you request.
 
@@ -30,15 +36,15 @@ You represent that you have the rights and permissions required to upload, proce
 
 Local copies and exported files remain under your control. Deleting a device copy does not necessarily delete a server copy or a copy exported to another app or location.
 
-## 4. Document signatures
+## 5. Document signatures
 
 DocuKit can place a drawn or typed visual signature on a document. This is not a certificate-based digital signature, identity-verification service, notarization service, or guarantee of legal enforceability. You are responsible for determining whether a signature method is appropriate for your transaction and jurisdiction.
 
-## 5. Document encryption
+## 6. Document encryption
 
 The Document Locker can encrypt files locally using password-based encryption. We do not store or recover your locker passphrase. If you lose the passphrase, the encrypted file may be permanently inaccessible. Encryption does not automatically delete the original file or copies stored elsewhere.
 
-## 6. Artificial intelligence features
+## 7. Artificial intelligence features
 
 DocuKit provides optional artificial-intelligence features for document-related tasks, including summarization, grammar review, translation, transcription, speech generation, background removal, and document assistance.
 
@@ -48,7 +54,7 @@ Do not rely on AI output as legal, medical, financial, tax, compliance, or other
 
 You must not use AI features to create or process unlawful content, exploit minors, impersonate others, facilitate fraud, distribute malware, violate another person’s rights, or engage in conduct prohibited by applicable law or provider policies. We may reject, limit, or suspend requests to prevent abuse, protect users, comply with law, or enforce service-provider requirements.
 
-## 7. Acceptable use
+## 8. Acceptable use
 
 You may not:
 
@@ -59,33 +65,33 @@ You may not:
 - Access another user’s files or account without authorization.
 - Use DocuKit in a way that places unreasonable load on the service.
 
-## 8. Third-party services
+## 9. Third-party services
 
 DocuKit relies on third-party services for authentication, infrastructure, and some online processing. Those services may apply their own terms and policies. We are not responsible for third-party services outside our control.
 
-## 9. Availability and changes
+## 10. Availability and changes
 
 DocuKit is provided on an “as is” and “as available” basis. We may perform maintenance, impose reasonable limits, or modify features for operational, security, legal, or product reasons.
 
 To the maximum extent permitted by law, we disclaim implied warranties, including merchantability, fitness for a particular purpose, non-infringement, and uninterrupted or error-free operation.
 
-## 10. Limitation of liability
+## 11. Limitation of liability
 
 To the maximum extent permitted by law, Atkins Media, LLC will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages; loss of data, profits, business, or opportunity; or decisions made using documents or AI output produced through DocuKit.
 
 Our total liability relating to DocuKit will not exceed the amount you paid us for DocuKit during the twelve months before the event giving rise to the claim, or USD $100 if you paid nothing, except where applicable law does not permit this limitation.
 
-## 11. Suspension and termination
+## 12. Suspension and termination
 
 You may stop using DocuKit at any time. We may restrict or terminate access if you violate these Terms, create legal or security risk, or misuse the service. Provisions that by their nature should survive termination will remain in effect.
 
 To delete your account and associated server data, open DocuKit Settings and choose **Delete Account**, or contact [support@atkinsmedia.io](mailto:support@atkinsmedia.io).
 
-## 12. Changes to these Terms
+## 13. Changes to these Terms
 
 We may update these Terms. We will post the revised version with a new effective date. Continued use after an update takes effect means you accept the updated Terms where permitted by law.
 
-## 13. Contact
+## 14. Contact
 
 Atkins Media, LLC  
 [support@atkinsmedia.io](mailto:support@atkinsmedia.io)
